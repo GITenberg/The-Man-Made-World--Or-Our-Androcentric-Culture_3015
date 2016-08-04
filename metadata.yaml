@@ -1,0 +1,35 @@
+_repo: The-Man-Made-World--Or-Our-Androcentric-Culture_3015
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gilman, Charlotte Perkins
+    aliases:
+    - Stetson, Charlotte Perkins
+    - Perkins, Charlotte Anna
+    birthdate: 1860
+    deathdate: 1935
+    gutenberg_agent_id: '27'
+    url: http://www.gutenberg.org/2009/agents/27
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman
+description: Early feminist author and advocate Charlotte Perkins Gilman is today
+  best remembered for the haunting short story The Yellow Wallpaper, which recounts
+  the female protagonist's descent into madness. In addition to her prodigious body
+  of fictional work, Gilman wrote a great deal of non-fiction, including scholarly
+  and persuasive essays about equality and the female condition. This long-form essay
+  details the misogyny that was pervasive in Western culture in the late nineteenth
+  and early twentieth centuries.
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3015'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Social conditions'
+- !lcsh 'Women -- Social and moral questions'
+- !lcc 'HQ'
+- GITenberg
+title: The Man-Made World; Or, Our Androcentric Culture
+url: http://www.gutenberg.org/ebooks/3015
