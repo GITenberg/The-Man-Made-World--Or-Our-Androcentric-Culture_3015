@@ -1,5 +1,8 @@
 _repo: The-Man-Made-World--Or-Our-Androcentric-Culture_3015
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gilman, Charlotte Perkins
@@ -18,6 +21,8 @@ description: Early feminist author and advocate Charlotte Perkins Gilman is toda
   and persuasive essays about equality and the female condition. This long-form essay
   details the misogyny that was pervasive in Western culture in the late nineteenth
   and early twentieth centuries.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3015#The-Man-Made-World--Or-Our-Androcentric-Culture
 gutenberg_issued: '2002-01-01'
 gutenberg_type: Text
 identifiers:
